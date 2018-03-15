@@ -28,7 +28,7 @@ After you <a href="{{page.baseurl}}frontend-dev-guide/themes/theme-create.html">
 
 To apply a theme:
 
-2. In Admin, go to **Stores** > **Configuration** > **Design**.
+2. In the Admin panel, go to **Content** > **Design** > **Configuration**.
 3. In the **Store View** drop-down field, select the {% glossarytooltip ca5a9ff1-8182-4fc4-a34b-9b3f831dbf3f %}store view{% endglossarytooltip %} where you want to apply the theme.
 4. On the **Design Theme** tab, select your newly created theme in the **Design Theme** drop-down.
 5. Click **Save Config**.
